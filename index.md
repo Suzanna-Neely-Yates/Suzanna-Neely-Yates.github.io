@@ -45,5 +45,3 @@ A system to standardized the climate risk assessment over all locations included
 
 
 ![image](https://user-images.githubusercontent.com/59842246/133198973-aa032be9-a192-4c0d-a640-8dd6cdd016fe.png)
-
-hello
