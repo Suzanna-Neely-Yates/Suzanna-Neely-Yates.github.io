@@ -1,3 +1,5 @@
+# Neural Networks {CS152} Project Proposal
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59842246/133199439-cc129697-b3fd-4cc7-9cde-13e2e46b6712.png" />
 </p>
