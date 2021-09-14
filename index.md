@@ -23,7 +23,7 @@ A system to standardized the climate risk assessment over all locations included
 This project quite literally causes climate change and the climate crises to hit close to home. It allows users to see how their lives will potentially be impacted by climate disasters which may in term prompt action.
 Providing accurate indicators of climate risks can help locals prepare for climate-related disasters ahead of time to mitigate risk.
 Understanding the risks of climate disasters and providing tangible climate risk statistics in designated districts may equip activist and political leaders will tools to demand more action on issues of climate change.
-Depending on the scope of this project, many areas lack resources to tools that warn of climate risk. This could provide vital information to locals in areas hit hard by climate change if climate justice is incorporated into the model design.
+Depending on the scope of this project, many areas lack resources to tools that warn of climate risk. This could provide vital information to locals in areas hit hard by climate change if climate justice is incorporated into the model design. 
 
 ## Project Goals
 1. Create a dataset within desired scope with location, date/time and climate disaster data
