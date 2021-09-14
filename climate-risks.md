@@ -10,7 +10,7 @@ The Climate Resilience project will use historical data to predict, protect and 
 
 ### Creating a Dataset
 
-An existing dataset can be utilized if it satisfied the desired amount of natural disasters within a specified location scope - determined by the project creators. Otherwise a custom dataset will be created to fit a given natural disaster and location scope. All data is expected to be numerical.
+An existing dataset can be utilized if it satisfies the desired amount of natural disasters within a specified location scope - determined by the project creators. Otherwise a custom dataset will be created to fit a given natural disaster and location scope. All data is expected to be numerical.
 
 ### Neural Networks
 
@@ -25,14 +25,14 @@ A system to standardized the climate risk assessment over all locations included
 1. This project quite literally causes climate change and the climate crises to hit close to home. It allows users to see how their lives will potentially be impacted by climate disasters which may in term prompt action.
 2. Providing accurate indicators of climate risks can help locals prepare for climate-related disasters ahead of time to mitigate risk.
 3. Understanding the risks of climate disasters and providing tangible climate risk statistics in designated districts may equip activist and political leaders will tools to demand more action on issues of climate change.
-4. Depending on the scope of this project, many areas lack resources to tools that warn of climate risk. This could provide vital information to locals in areas hit hard by climate change if climate justice is incorporated into the model design. 
+4. Depending on the scope of this project, many areas lack resources and tools that warn of climate risks. This could provide vital information to locals in areas hit hard by climate change if climate justice is incorporated into the model design. 
 
 ## Project Goals
 1. Create a dataset within desired scope with location, date/time and climate disaster data
 2. Train a Neural Net to predict natural disasters
 3. Create a climate risk assessment system
 4. Create user interface for users to input location and retrieve climate risk assessment
-5. Explore the ethical implications of compiling natural disaster ranking system, particularly on climate justice.
+5. Explore the ethical implications of compiling natural disaster rating system, particularly on climate justice.
 
 ## Potential Components of Dataset
 
